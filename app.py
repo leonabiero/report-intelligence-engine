@@ -71,18 +71,18 @@ if st.button("🚀 Analyze & Retrieve Insights", type="primary", use_container_w
 
     # 2. Simulate the Reasoning Layer (Claude AI Response Generation)
     st.markdown("---")
-    st.markdown('<div class="section-header">🤖 Claude AI Generated Recommendation Plan</div>', unsafe_allow_html=True)
+    st.markdown('<div class="section-header">🤖 Claude AI Generated Advisory Brief</div>', unsafe_allow_html=True)
     
     with st.spinner("Claude is synthesizing historical context into an optimized intervention strategy..."):
         time.sleep(2.5)  # Simulate Claude thinking
         
-        st.success("### 📋 Recommended Strategic Action Plan for Mary")
+        st.success("### 📋 Suggested Case Guidance for Mary")
         st.write("""
         Based on a deep historical analysis of **50,000 archival records**, structural training completion paired with unresolved logistics risks an extended unemployment cycle (as demonstrated in **Case B**). Conversely, direct logistical mitigation has a **94% historical correlation** with rapid employment success.
 
-        #### 🌟 Primary Recommendations:
-        1. **Deploy Immediate Transport Support:** Allocate a targeted transport subsidy for the next 60 days specifically to facilitate interview attendance and early commuting, replicating the successful framework of **Case A**.
-        2. **Targeted Internship Placement:** Cross-reference current openings with active internship partners to bridge the immediate employment gap, matching the acceleration mechanics seen in **Case C**.
+        #### 🌟 Strategic Options for Consideration:
+        1. **Evaluate Transport Support Suitability:** Consider exploring a targeted transport subsidy for the next 60 days to facilitate interview attendance and early commuting, replicating the supportive framework observed in **Case A**.
+        2. **Explore Targeted Internship Pathing:** It may be beneficial to review current openings with active internship partners to bridge the immediate employment gap, matching the acceleration mechanics seen in **Case C**.
         """)
 
 # --- FOOTER ---
