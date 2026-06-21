@@ -83,7 +83,6 @@ if st.button("🚀 Analyze & Retrieve Insights", type="primary", use_container_w
         #### 🌟 Primary Recommendations:
         1. **Deploy Immediate Transport Support:** Allocate a targeted transport subsidy for the next 60 days specifically to facilitate interview attendance and early commuting, replicating the successful framework of **Case A**.
         2. **Targeted Internship Placement:** Cross-reference current openings with active internship partners to bridge the immediate employment gap, matching the acceleration mechanics seen in **Case C**.
-        3. **Administrative Savings:** By identifying these matches instantly through the Engine, the manual case-review workload for this intake was reduced by approximately **30 minutes**.
         """)
 
 # --- FOOTER ---
